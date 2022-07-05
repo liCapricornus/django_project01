@@ -1,0 +1,13 @@
+# 开发环境
+Django              3.2.13
+django-cors-headers 3.12.0
+django-crontab      0.7.1
+django-haystack     3.2.1
+django-redis        5.2.0
+django-tinymce      3.4.0
+elasticsearch       2.4.1
+celery              5.2.7
+tornado             6.2
+Pillow              9.1.1
+pip                 22.1.2
+redis               4.3.1
